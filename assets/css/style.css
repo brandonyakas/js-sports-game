@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/chicagoblackhawks.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+#reset-container, h1 {
+    text-align: center;
+}
